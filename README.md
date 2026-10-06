@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Tajuddin2004/Tajuddin2004/main/assets/header.svg" alt="SK Tajuddin" />
-
+<img width="100%" src="https://raw.githubusercontent.com/Tajuddin2004/Tajuddin2004/main/assets/header.svg?v=2" alt="SK Tajuddin" />
 <a href="https://github.com/Tajuddin2004">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3F8CE8&center=true&vCenter=true&width=640&height=45&lines=Computer+Engineering+Undergraduate;Python+%C2%B7+SQL+%C2%B7+Power+BI;Building+data-driven+dashboards;Full-stack+with+the+MERN+stack+and+AI" alt="Typing animation" />
 </a>
