@@ -1,1 +1,26 @@
-https://komarev.com/ghpvc/?username=Tajuddin2004&color=24456B&style=flat-square&label=PROFILE+VIEWS
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="SK Tajuddin">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12263F"/>
+      <stop offset="0.55" stop-color="#24456B"/>
+      <stop offset="1" stop-color="#3F8CE8"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="220"/></clipPath>
+  </defs>
+  <style>
+    .t { font: 700 54px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; opacity: 0; animation: up 1.2s ease-out .2s forwards; }
+    .s { font: 400 20px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #CFE0F5; opacity: 0; animation: up 1.2s ease-out .8s forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .w1 { animation: m1 14s linear infinite; }
+    .w2 { animation: m2 20s linear infinite; }
+    @keyframes m1 { from { transform: translateX(0); } to { transform: translateX(-1000px); } }
+    @keyframes m2 { from { transform: translateX(-1000px); } to { transform: translateX(0); } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="220" fill="url(#g)"/>
+    <path class="w1" d="M0 136.4 C 250 108.4, 250 164.4, 500 136.4 S 750 108.4, 1000 136.4 S 1250 164.4, 1500 136.4 S 1750 108.4, 2000 136.4 V 220 H 0 Z" fill="#ffffff" fill-opacity="0.10"/>
+    <path class="w2" d="M0 162.8 C 250 184.8, 250 140.8, 500 162.8 S 750 184.8, 1000 162.8 S 1250 140.8, 1500 162.8 S 1750 184.8, 2000 162.8 V 220 H 0 Z" fill="#ffffff" fill-opacity="0.16"/>
+    <text x="500" y="92" text-anchor="middle" class="t">SK Tajuddin</text>
+    <text x="500" y="132" text-anchor="middle" class="s">Computer Engineering  |  Data &amp; Web</text>
+  </g>
+</svg>
